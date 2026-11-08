@@ -11,7 +11,7 @@ hero transitions and haptic feedback.
 
 ## Demo video
 
-<!-- VIDEO GOES HERE -->
+https://github.com/user-attachments/assets/9d31df82-74dd-4f8f-9d37-85e092d6060f
 
 ## Features
 
